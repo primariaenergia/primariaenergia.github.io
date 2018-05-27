@@ -163,7 +163,17 @@ s0.parentNode.insertBefore(s1,s0);
 				</nav>
 			</div>
 		</header>
-
+		<!--botão curtir--> 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v3.0';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+		<!--fim do botão curtir-->
+		
 		<div class="fh5co-hero" style="background-image: url(images/hero_1.jpg); background-size: cover;   /* Preserve aspet ratio */
   min-width: 100%;
   min-height: 100%;" >
@@ -315,6 +325,9 @@ s0.parentNode.insertBefore(s1,s0);
 				
 				</div>
 			</div>
+			<!--posição do curtir-->
+			<div class="fb-like" data-href="https://www.primariaenergia.com" data-layout="button_count" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
+			<!--fim-->
 			<div class="row">
 				<div class="col-md-12 fh5co-copyright text-center">
 					<p><small>&copy; Html open source made by<a href="http://insitedf.com"> inSite DF</a></small></p>
