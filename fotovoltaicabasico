@@ -110,14 +110,12 @@
 		
 					<H2 Style = "Font-Color: Blue;"> Fotovoltaica Básico completo</H2>
 					
-      <div class="turma-detalhes">
-        <span class="turma-horario">
-          Data a ser informada
-                      (Rio de Janeiro / RJ)
-                  </span>
-
-                  <br/>das 09:00 às 18:00h        
-                  <br/>Universidade Veiga de Almeida - Campus Maracanã - Rua Ibituruna, 108 bloco A sala 124 A - Maracanã, Rio de Janeiro               </div>
+      <div>
+       
+         <p> 28 de Setembro
+                     <br/>Universidade de Brasília
+                  <br/>das 08:00 às 12:00h        
+                  <br/>    </p> </div>
 
               <div class="curso-descricao">
           <p><strong>Conteúdo:</strong></p>
@@ -160,29 +158,11 @@
             <b class="text-uppercase">Telemaco Peggion</b>
                           - Engenheiro eletricista graduado pela UNESP campus de Bauru com ênfase em acionamento e controle, e especialização em Administração pela Fundação Getúlio Vargas. Trabalhou por mais de 8 anos na área de proteção elétrica contra Raios e Surtos e Instalações elétricas em áreas classificadas atuando principalmente junto as empresas da cadeia de Energia Renovável, Óleo e Gás e indústria em geral. Hoje atua como Gerente de Vendas da empresa OBO Betterman fabricante alemão de materiais elétricos incluindo a divisão de Proteção contra Raios e Surtos.                      </p>
               </div>
-
-  	    		  <br>
-  		  <a href="#modal-aviseme" class="btn btn-custom1" data-toggle="modal" data-idturma="151">
-  			Avise-me <i class="fa fa-chevron-circle-right hidden-xs"></i>
-  		  </a>
+  		
   	  
           </div><!-- col-sm-8 -->
 
-    <div class="col-sm-4 col-sm-offset-1">
-      <div class="well well-depoimento">
-        <h3 class="texto-destaque">Depoimentos</h3>
-                  <div class="depoimento">
-            <p class="depoimento-texto">"Obrigado pelo primeiro curso, foi muito bem ministrado, aprendi muito!"</p>
-            <p class="depoimento-nome">&mdash; Luis Henrique Schuster, SolarPro Engenharia</p>
-          </div>
-                  <div class="depoimento">
-            <p class="depoimento-texto">" Parabéns a Solarize!!! O curso vale cada centavo!"</p>
-            <p class="depoimento-nome">&mdash; Tiago Calazans</p>
-          </div>
-                  <div class="depoimento">
-            <p class="depoimento-texto">"Excelente curso. Há tempo que não participava de um curso tão abrangente - teoria e prática. Os instrutores se preocuparam em transmitir os conhecimentos acumulados em um sem número de projetos e instalações (pelo Brasil e pelo mundo). Parabéns aos amigos da Solarize pelo curso."</p>
-            <p class="depoimento-nome">&mdash; Paulo Roberto Targa, Targa Energias Limpas e Renováveis</p>
-          </div>
+   
 	</div> <!-- END fh5co-wrap -->
 
 
