@@ -100,52 +100,89 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
 						<div class="fh5co-intro fh5co-table-cell">
-							<h1 style="color: white; text-shadow: 2px 2px 2px black;" class="text-center">Fale conosco e visite nossa sede</h1>
+							<h1 style="color: white; text-shadow: 2px 2px 2px black;" class="text-center">Fotovoltaica - Básico</h1>
 							
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="fh5co-section">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-5">
-						<h1>Nosso Endereço</h1>
-						<p>Deck Norte</p>
-<p>St. de Habitações Individuais Norte CA 1 - Lago Norte, Brasília - DF, 71503-501</p>
-<p>Torre Comercial</p>
-<p>Segundo Andar, Sala 214 <br> (61) 3968-1994 <br>
-(61) 9970-1994<br>primariaenergia1@gmail.com </p>
+		
+					<H2 Style = "Font-Color: Blue;"> Fotovoltaica Básico completo</H2>
+					
+      <div class="turma-detalhes">
+        <span class="turma-horario">
+          Data a ser informada
+                      (Rio de Janeiro / RJ)
+                  </span>
 
-					</div>
-					<div class="col-md-6 col-md-push-1">
-						<form action="https://formspree.io/primariaenergia1@gmail.com" method="POST">
-							<div class="form-group">
-								<input type="text" class="form-control" name="name" placeholder="Seu nome">
-							</div>
-							<input type="hidden" name="_next" value="index.html" />
-							<div class="form-group">
-								<input type="email" class="form-control" name="email" placeholder="Seu e-mail">
-							</div>
-							<div class="form-group">
-								<input type="text" class="form-control" name="tel" placeholder="Telefone">
-							</div>
-							<div class="form-group">
-								<textarea class="form-control" name="message" cols="30" rows="10" placeholder="Escreva aqui sua mensagem, te responderemos rapidamente"></textarea>
-							</div>
-							<input type="hidden" name="_language" value="pt-BR" />
-							<div class="form-group">
-								<input type="submit" value="Enviar">
-							</div>
-						</form>
-					</div>
-				</div>
-			</div>
-		</div>
+                  <br/>das 09:00 às 18:00h        
+                  <br/>Universidade Veiga de Almeida - Campus Maracanã - Rua Ibituruna, 108 bloco A sala 124 A - Maracanã, Rio de Janeiro               </div>
 
-		<div id="map"></div>
+              <div class="curso-descricao">
+          <p><strong>Conteúdo:</strong></p>
 
+<ul>
+	<li>Formação de Raios e Acidentes em Sistemas Fotovoltaicos e Torres Eólicas</li>
+	<li>Causas das Descargas Elétricas e Surtos</li>
+	<li>Normativas Nacionais e Internacionais</li>
+	<li>SPDA Externo para Sistemas Fotovoltaicos e Torres Eólicas</li>
+	<li>SPDA Interno para Sistemas Fotovoltaicos e Torres Eólicas (Nacele e seus equipamentos)</li>
+	<li>Exemplos e Referências de Usinas fotovoltaicas e Parques Eólicos</li>
+</ul>
+
+<p><strong>Público Alvo:</strong>&nbsp;Gerentes de projeto, gerentes de usinas, engenheiros, arquitetos, eletricistas e eletrotécnicos</p>
+        </div>
+      
+      
+              <div class="turma-descricao">
+          <p><strong>Data:</strong>&nbsp;divulgação em breve</p>
+
+<p>Horário: 09 às 18&nbsp;horas</p>
+
+<p><strong>Carga horária: </strong>8&nbsp;horas</p>
+
+<p><strong>Valor: </strong>R$ 490,00</p>
+
+<p><strong>Desconto para estudantes:</strong> 30% mediante envio da declaraçãode estudante emitida pela&nbsp;instituição de ensino</p>
+
+<p><strong>Formas de pagamento:</strong> depósito, boleto e cartão de crédito</p>
+
+<p><strong>Inclui:</strong> apostila impressa e digital, certificado de participação e <em>coffe-break</em></p>
+
+<p><strong>Informações:</strong> cursos@solarize.com.br</p>
+        </div>
+      
+      <div class="turma-instrutores">
+        <p><b>Ministrado por:</b></p>
+
+                  <p>
+            <b class="text-uppercase">Telemaco Peggion</b>
+                          - Engenheiro eletricista graduado pela UNESP campus de Bauru com ênfase em acionamento e controle, e especialização em Administração pela Fundação Getúlio Vargas. Trabalhou por mais de 8 anos na área de proteção elétrica contra Raios e Surtos e Instalações elétricas em áreas classificadas atuando principalmente junto as empresas da cadeia de Energia Renovável, Óleo e Gás e indústria em geral. Hoje atua como Gerente de Vendas da empresa OBO Betterman fabricante alemão de materiais elétricos incluindo a divisão de Proteção contra Raios e Surtos.                      </p>
+              </div>
+
+  	    		  <br>
+  		  <a href="#modal-aviseme" class="btn btn-custom1" data-toggle="modal" data-idturma="151">
+  			Avise-me <i class="fa fa-chevron-circle-right hidden-xs"></i>
+  		  </a>
+  	  
+          </div><!-- col-sm-8 -->
+
+    <div class="col-sm-4 col-sm-offset-1">
+      <div class="well well-depoimento">
+        <h3 class="texto-destaque">Depoimentos</h3>
+                  <div class="depoimento">
+            <p class="depoimento-texto">"Obrigado pelo primeiro curso, foi muito bem ministrado, aprendi muito!"</p>
+            <p class="depoimento-nome">&mdash; Luis Henrique Schuster, SolarPro Engenharia</p>
+          </div>
+                  <div class="depoimento">
+            <p class="depoimento-texto">" Parabéns a Solarize!!! O curso vale cada centavo!"</p>
+            <p class="depoimento-nome">&mdash; Tiago Calazans</p>
+          </div>
+                  <div class="depoimento">
+            <p class="depoimento-texto">"Excelente curso. Há tempo que não participava de um curso tão abrangente - teoria e prática. Os instrutores se preocuparam em transmitir os conhecimentos acumulados em um sem número de projetos e instalações (pelo Brasil e pelo mundo). Parabéns aos amigos da Solarize pelo curso."</p>
+            <p class="depoimento-nome">&mdash; Paulo Roberto Targa, Targa Energias Limpas e Renováveis</p>
+          </div>
 	</div> <!-- END fh5co-wrap -->
 
 
