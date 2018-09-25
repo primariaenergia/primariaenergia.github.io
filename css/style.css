@@ -92,9 +92,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 #sombra{
  padding: 10px;
-   background-color: #999;
+  
    color: #fff;
-    Width: 400px;
+    Width: 1000px;
    box-shadow: 2px 2px 2px #ffc;
    -webkit-box-shadow: 2px 2px 2px #ffc;
    -moz-box-shadow: 2px 2px 2px #ffc;
