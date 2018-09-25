@@ -90,6 +90,20 @@ h1, h2, h3, h4, h5, h6 {
   background: #d6d6d6;
   font-size: 18px;
 }
+#sombra{
+ padding: 10px;
+   background-color: #999;
+   color: #fff;
+    
+   box-shadow: 2px 2px 2px #ffc;
+   -webkit-box-shadow: 2px 2px 2px #ffc;
+   -moz-box-shadow: 2px 2px 2px #ffc;
+}
+
+
+Read more: http://www.linhadecodigo.com.br/artigo/3633/entendendo-o-atributo-box-shadow-nas-css3.aspx#ixzz5S7LJC51B
+}
+
 @media screen and (max-width: 992px) {
   #fh5co-footer {
     height: inherit;
