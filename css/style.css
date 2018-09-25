@@ -90,18 +90,8 @@ h1, h2, h3, h4, h5, h6 {
   background: #d6d6d6;
   font-size: 18px;
 }
-#sombra{
- padding: 10px;
-  
-   color: #fff;
-    Width: 1000px;
-   box-shadow: 2px 2px 2px #ffc;
-   -webkit-box-shadow: 2px 2px 2px #ffc;
-   -moz-box-shadow: 2px 2px 2px #ffc;
-}
 
 
-Read more: http://www.linhadecodigo.com.br/artigo/3633/entendendo-o-atributo-box-shadow-nas-css3.aspx#ixzz5S7LJC51B
 }
 
 @media screen and (max-width: 992px) {
@@ -214,7 +204,7 @@ Read more: http://www.linhadecodigo.com.br/artigo/3633/entendendo-o-atributo-box
     border-top-width: 2px;
     border-top-style: solid;
     border-top-color: #52d3aa;
-    border-bottom: 2px:
+    border-bottom: 2px;
     border-bottom-style: solid;
     border-bottom-color: #52d3aa:  
 
